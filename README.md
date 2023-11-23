@@ -1,0 +1,5 @@
+Lien vers notre dossier figma : https://www.figma.com/file/S2CfRGLAyXib1AY96C6ueV/Kitten-Project?type=design&node-id=0-948&mode=design&t=5rnzDAlLwhdAxbq5-0
+
+Projet de  boutique en ligne, qui vend des photos de chatons. La page d'accueil du site comprendra la liste des produits qui sont à vendre. Un visiteur peut cliquer sur l'un des produits pour l'afficher et avoir plus de détails sur le produit. Le visiteur devra s'inscrire pour ajouter ce produit à son panier. Un utilisateur peut accéder facilement à son panier, modifier la quantité de produits à acheter, puis accéder au checkout pour payer. Il paiera via Stripe le total, il recevra un email avec la·les photo·s de chaton·s. L'administrateur du site recevra aussi un email avec le récapitulatif de la commande qui vient d'être passée.
+
+L'objectif est de sortir un produit terminé en 3 jours. Ce n'est pas d'attendre "la version finale". Le site est donc fonctionnel, minimaliste, et en production. Les fonctionnalités supplémentaires (dashboard admin, possibilités pour les visiteurs d'ajouter un objet à un panier, etc) viendront plus tard.
